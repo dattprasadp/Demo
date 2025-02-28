@@ -35,6 +35,8 @@ public class SprintBootFileUploadAndDownload {
                     // Print response status and body
                     System.out.println("Response Code: " + response.getStatusCode());
                     System.out.println("Response Body: " + response.prettyPrint());
+                    System.out.println("GIT DEMO");
+                    System.out.println("GIT DEMO 1");
                 }
             }
 

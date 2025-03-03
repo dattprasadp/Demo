@@ -37,6 +37,9 @@ public class SprintBootFileUploadAndDownload {
                     System.out.println("Response Body: " + response.prettyPrint());
                     System.out.println("GIT DEMO");
                     System.out.println("GIT DEMO 1");
+
+                    System.out.println("GIT DEMO 2");
+                    System.out.println("GIT DEMO 3");
                 }
             }
 

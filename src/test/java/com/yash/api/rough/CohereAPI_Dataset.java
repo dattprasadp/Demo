@@ -36,6 +36,10 @@ public class CohereAPI_Dataset {
         System.out.println("Status Code is: " + response.statusCode());
 
     }
+    public void testCoherePostRequestOne1()
+    {
+        System.out.println("GITDEMO");
+    }
 
 
 }

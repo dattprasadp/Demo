@@ -44,6 +44,7 @@ public class SprintBootFileUploadAndDownload {
             }
 
 
+
         }
         catch(Exception e)
         {
@@ -52,6 +53,10 @@ public class SprintBootFileUploadAndDownload {
         finally {
 
         }
+    }
+    public void FileUpload1()
+    {
+        System.out.println("GITDEMO");
     }
 
 }

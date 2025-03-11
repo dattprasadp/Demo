@@ -33,5 +33,9 @@ public class FirstTrail {
         System.out.println("Response Body: " + response.prettyPrint());
 
     }
+    public void imageFileUpload1()
+    {
+        System.out.println("GIT");
+    }
 
 }
